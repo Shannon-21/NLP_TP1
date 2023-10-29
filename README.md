@@ -12,7 +12,7 @@
 - Ferrucci Constantino
 - Giampaoli Fabio
 
-**Doncentes**:
+**Docentes**:
 - Juan Pablo Manson
 - Alan Geary
 - Andrea Cavallo
